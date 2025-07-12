@@ -27,3 +27,14 @@ A **simple and responsive Contact Form** built for the *Elevate Labs Web Develop
 ```bash
 git clone https://github.com/your-username/contact-form-elevate.git
 cd contact-form-elevate
+
+
+📌 Use Cases
+
+Internship & job application forms
+Portfolio contact pages
+Feedback or query collection
+Small business inquiry forms
+
+📄 License
+This project is licensed under the MIT License. Feel free to use and customize it!
