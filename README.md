@@ -24,7 +24,7 @@ A **simple and responsive Contact Form** built for the *Elevate Labs Web Develop
 ## 🧾 How to Use
 
 1. **Clone this repository**  
-```bash
+bash
 git clone https://github.com/your-username/contact-form-elevate.git
 cd contact-form-elevate
 
